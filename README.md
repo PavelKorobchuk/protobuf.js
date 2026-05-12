@@ -1,5 +1,12 @@
 ![protobuf.js - Protocol Buffers for JavaScript. Finally.](https://raw.github.com/dcodeIO/protobuf.js/master/protobuf.png)
 =====================================
+
+## Versioning
+
+This fork is published to Artifactory using the hybrid format: `5.0.1-auth0-{internal-version}` (e.g., `5.0.1-auth0-1.0.0`).
+
+---
+
 **Protocol Buffers** are a language-neutral, platform-neutral, extensible way of serializing structured data for use
 in communications protocols, data storage, and more, originally designed at Google ([see](https://developers.google.com/protocol-buffers/docs/overview)).
 
